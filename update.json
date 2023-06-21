@@ -1,0 +1,30 @@
+{
+  "homepage": "https://www.curseforge.com/minecraft/mc-mods/ffff/files",
+  "1.16.5": {
+    "0.2.1.1": "Added the Forge Update Checker and fixed some bugs"
+  },
+  "1.15.2": {
+    "0.2.1.1": "Added the Forge Update Checker and fixed some bugs"
+  },
+  "1.17.1": {
+    "0.2.1.1": "Added the Forge Update Checker and fixed some bugs"
+  },
+  "1.18.2": {
+    "0.2.1.1": "Added the Forge Update Checker and fixed some bugs"
+  },
+  "1.19.2": {
+    "0.2.1.1": "Added the Forge Update Checker and fixed some bugs"
+  },
+  "promos": {
+    "1.16.5-latest": "0.2.1.1",
+    "1.16.5-recommended": "0.2.1.1",
+    "1.15.2-latest": "0.2.1.1",
+    "1.15.2-recommended": "0.2.1.1",
+    "1.17.1-latest": "0.2.1.1",
+    "1.17.1-recommended": "0.2.1.1",
+    "1.18.2-latest": "0.2.1.1",
+    "1.18.2-recommended": "0.2.1.1",
+    "1.19.2-latest": "0.2.1.1",
+    "1.19.2-recommended": "0.2.1.1"
+  }
+}
