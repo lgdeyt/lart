@@ -1,11 +1,15 @@
 {
-  "homepage": "https://www.curseforge.com/minecraft/mc-mods/bc/files",
+  "homepage": "https://www.curseforge.com/minecraft/mc-mods/cwf3/files",
   "1.18.2": {
     "1.0.0": "First Version of this mod. / Erste Version der Mod."
-    "1.1.0": "Now you can use F6 to change the mode of the overlay and use F7 to hide or show the overlay"
+    "1.1.0": "Now you can use F6 to change the mode of the overlay and use F7 to hide or show the overlay."
   },
   "1.19.2": {
-    "1.0.0": "First Version of this mod. / Erste Version der Mod."
+    "1.0.0": "First Version of this mod."
+    "1.1.0": "Now you can use F6 to change the mode of the overlay and use F7 to hide or show the overlay."
+  },
+    "1.19.4": {
+    "1.1.0": "First 1.19.4 Version."
   },
   "promos": {
     "1.18.2-latest": "1.1.0",
