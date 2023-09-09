@@ -1,22 +1,25 @@
 {
-  "homepage": "https://www.curseforge.com/minecraft/mc-mods/cwf3/files",
+  "homepage": "https://legacy.curseforge.com/minecraft/mc-mods/lart/files",
   "1.18.2": {
-    "1.0.0": "First Version of this mod. / Erste Version der Mod."
-    "1.1.0": "Now you can use F6 to change the mode of the overlay and use F7 to hide or show the overlay."
+    "1.0.0": "First Version of this mod."
   },
   "1.19.2": {
     "1.0.0": "First Version of this mod."
-    "1.1.0": "Now you can use F6 to change the mode of the overlay and use F7 to hide or show the overlay."
   },
     "1.19.4": {
-    "1.1.0": "First 1.19.4 Version."
+    "1.0.0": "First Version of this mod."
   },
+  1.20.1: {
+    "1.0.0": "First Version of this mod."
+  }
   "promos": {
-    "1.18.2-latest": "1.1.0",
-    "1.18.2-recommended": "1.1.0",
-    "1.19.2-latest": "1.1.0",
-    "1.19.2-recommended": "1.1.0"
-    "1.19.4-latest": "1.1.0",
-    "1.19.4-recommended": "1.1.0"
+    "1.18.2-latest": "1.0.0",
+    "1.18.2-recommended": "1.0.0",
+    "1.19.2-latest": "1.0.0",
+    "1.19.2-recommended": "1.0.0"
+    "1.19.4-latest": "1.0.0",
+    "1.19.4-recommended": "1.0.0"
+    "1.20.1-latest": "1.0.0",
+    "1.20.1-recommended": "1.0.0"
   }
 }
