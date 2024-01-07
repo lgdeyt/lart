@@ -4,7 +4,7 @@
     "1.0.1": "Bugfixes, New Ermiet Block recepe, Ore improvements"
   },
   "1.19.2": {
-    "1.0.1": "Bugfixes, New Ermiet Block recepe, Ore improvements"
+    "1.0.2": "New Liro Ingot recipe, New Ermiet Block texture, Loot Table improvements and more"
   },
     "1.19.4": {
     "1.0.1": "Bugfixes, New Ermiet Block recepe, Ore improvements"
@@ -16,8 +16,8 @@
     "1.18.2-latest": "1.0.1",
     "1.18.2-recommended": "1.0.1",
     "1.19.2-latest": "1.0.1",
-    "1.19.2-recommended": "1.0.1"
-    "1.19.4-latest": "1.0.1",
+    "1.19.2-recommended": "1.0.2"
+    "1.19.4-latest": "1.0.2",
     "1.19.4-recommended": "1.0.1"
     "1.20.1-latest": "1.0.1",
     "1.20.1-recommended": "1.0.1"
