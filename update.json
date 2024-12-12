@@ -10,10 +10,10 @@
     "1.0.2": "New Liro Ingot recipe, New Ermiet Block texture, Loot Table improvements and more"
   },
     "1.20.1": {
-    "2.0.2": "Fixed Artifacts not craftable, Liro Ore using wrong texture"
+    "2.2.0": "Armor Trims, Silk Touch, new textures and balancing"
   },
     "1.21.1": {
-    "2.0.2": "Fixed Artifacts not craftable, Liro Ore using wrong texture"
+    "2.2.0": "Armor Trims, Silk Touch, new textures and balancing"
   },
   "promos": {
     "1.18.2-latest": "1.0.2",
@@ -22,9 +22,9 @@
     "1.19.2-recommended": "1.0.2",
     "1.19.4-latest": "1.0.2",
     "1.19.4-recommended": "1.0.2",
-    "1.20.1-latest": "2.0.2",
-    "1.20.1-recommended": "2.0.2",
-    "1.21.1-latest": "2.0.2",
-    "1.21.1-recommended": "2.0.2"
+    "1.20.1-latest": "2.2.0",
+    "1.20.1-recommended": "2.2.0",
+    "1.21.1-latest": "2.2.0",
+    "1.21.1-recommended": "2.2.0"
   }
 }
